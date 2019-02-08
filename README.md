@@ -5,3 +5,4 @@
 <img width="800" alt="img_3" src="https://user-images.githubusercontent.com/37712616/52497282-56c50f80-2bde-11e9-95d3-ed6eea3cb628.png">
 <img width="800" alt="img_4" src="https://user-images.githubusercontent.com/37712616/52497283-56c50f80-2bde-11e9-8b17-64c192611dc0.png">
 <img width="800" alt="img_5" src="https://user-images.githubusercontent.com/37712616/52497284-56c50f80-2bde-11e9-83d9-a93762a46d82.png">
+<img width="800" alt="screen shot 2019-02-08 at 7 12 18 pm" src="https://user-images.githubusercontent.com/37712616/52497414-b15e6b80-2bde-11e9-95e2-831f168bc9b6.png">
